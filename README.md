@@ -1,2 +1,6 @@
-# bioe131
-BioE 131 Berkeley CA
+# Bioe131/231
+
+Bioinformatics @ Berkeley CA
+
+## Labs are under the lab folder
+
