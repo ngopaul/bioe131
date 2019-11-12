@@ -256,6 +256,10 @@ class NWAligner:
 ###                                      ###
 
 if __name__ == '__main__':
+    if sys.version_info[0] !- 3:
+        print('Please use python3 to run this script.')
+        sys.exit(1)
+    
     def usage():
         print('usage: %s matrixfilename stringfilename')
         sys.exit(1)
